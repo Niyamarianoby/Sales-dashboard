@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Product_Category,Product_Name,Sales_Rep,Units_Sold,Unit_Price,Total_Sales,Profit
+ORD1000,2024-11-09,North,Furniture,Basketball,Grace,7,382.5,2677.5,718.84
+ORD1001,2024-12-01,North,Food & Beverage,Tennis Racket,Frank,15,92.67,1390.05,277.11
+ORD1002,2024-04-06,East,Sports,T-Shirt,Alice,11,779.38,8573.18,1715.74
+ORD1003,2024-11-16,South,Food & Beverage,Tennis Racket,Helen,8,562.82,4502.56,973.72
+ORD1004,2024-10-26,South,Electronics,Desk,Frank,7,429.98,3009.86,282.45
+ORD1005,2024-08-21,West,Clothing,Desk,Grace,19,907.29,17238.51,4802.7
+ORD1006,2024-07-25,West,Food & Beverage,Headphones,Alice,11,120.09,1320.99,204.35
+ORD1007,2024-08-07,South,Furniture,Laptop,Alice,11,497.7,5474.7,798.13
+ORD1008,2024-02-20,North,Sports,Basketball,Bob,4,21.24,84.96,15.27
+ORD1009,2024-05-10,East,Clothing,Desk,Charlie,8,473.97,3791.76,234.11
+ORD1010,2024-07-27,South,Clothing,Coffee Maker,David,3,65.74,197.22,18.06
+ORD1011,2024-10-15,East,Furniture,Coffee Maker,Eva,2,127.63,255.26,59.86
+ORD1012,2024-08-17,East,Sports,Blender,Frank,12,126.35,1516.2,107.19
+ORD1013,2024-04-20,South,Electronics,Blender,Grace,6,652.72,3916.32,786.35
+ORD1014,2024-11-17,East,Clothing,Tennis Racket,Alice,2,748.58,1497.16,166.69
+ORD1015,2024-04-23,North,Sports,Desk,Charlie,1,587.54,587.54,86.56
+ORD1016,2024-04-16,East,Sports,Laptop,Charlie,12,962.55,11550.6,1411.18
+ORD1017,2024-01-13,West,Electronics,Desk,Charlie,12,381.12,4573.44,635.33
+ORD1018,2024-05-26,East,Electronics,Jacket,Alice,17,292.85,4978.45,1143.86
+ORD1019,2024-08-27,East,Clothing,Basketball,Helen,10,869.91,8699.1,1081.13
+ORD1020,2024-07-21,North,Furniture,Laptop,Eva,16,231.36,3701.76,709.26
+ORD1021,2024-04-15,North,Furniture,Jacket,Helen,15,963.59,14453.85,2442.88
+ORD1022,2024-07-23,West,Electronics,Chair,Bob,15,22.03,330.45,71.35
+ORD1023,2024-02-21,North,Furniture,Coffee Maker,Eva,19,970.18,18433.42,5238.92
+ORD1024,2024-02-12,South,Electronics,Blender,Charlie,12,52.73,632.76,147.52
+ORD1025,2024-08-29,West,Food & Beverage,T-Shirt,Grace,3,892.23,2676.69,277.67
+ORD1026,2024-11-09,East,Furniture,Jacket,Bob,5,532.42,2662.1,153.86
+ORD1027,2024-02-22,West,Food & Beverage,Desk,Bob,19,993.04,18867.76,2180.47
+ORD1028,2024-01-18,West,Clothing,Chair,Helen,7,83.06,581.42,115.57
+ORD1029,2024-06-07,West,Furniture,Basketball,Grace,9,558.32,5024.88,315.85
+ORD1030,2024-08-15,North,Electronics,T-Shirt,Eva,7,969.61,6787.27,1181.61
+ORD1031,2024-12-24,West,Furniture,Chair,Alice,18,527.87,9501.66,1892.83
+ORD1032,2024-07-06,North,Sports,Basketball,Frank,4,633.1,2532.4,338.23
+ORD1033,2024-07-23,North,Sports,Coffee Maker,Charlie,14,698.79,9783.06,2374.62
+ORD1034,2024-01-17,West,Electronics,Tennis Racket,Alice,18,460.0,8280.0,634.66
+ORD1035,2024-11-23,South,Sports,Headphones,David,9,631.28,5681.52,390.8
+ORD1036,2024-01-26,East,Food & Beverage,Headphones,Bob,2,588.47,1176.94,273.11
+ORD1037,2024-03-14,South,Sports,Coffee Maker,Helen,15,902.15,13532.25,2352.89
+ORD1038,2024-01-17,South,Sports,Basketball,Grace,7,54.99,384.93,85.49
+ORD1039,2024-06-27,East,Furniture,Chair,Helen,12,288.15,3457.8,548.78
+ORD1040,2024-09-12,East,Sports,Jacket,David,8,950.91,7607.28,848.98
+ORD1041,2024-12-24,East,Electronics,Headphones,Frank,15,891.36,13370.4,3406.45
+ORD1042,2024-02-14,East,Food & Beverage,Desk,Bob,3,461.1,1383.3,345.62
+ORD1043,2024-06-11,East,Furniture,Chair,Charlie,14,623.93,8735.02,1953.8
+ORD1044,2024-08-23,East,Furniture,Chair,Helen,17,284.61,4838.37,571.1
+ORD1045,2024-10-10,South,Food & Beverage,Desk,Frank,4,196.24,784.96,155.07
+ORD1046,2024-05-03,South,Clothing,Jacket,Bob,18,469.06,8443.08,1184.09
+ORD1047,2024-09-18,West,Furniture,Laptop,Frank,8,359.82,2878.56,209.83
+ORD1048,2024-09-09,West,Clothing,Jacket,Alice,4,587.82,2351.28,656.78
+ORD1049,2024-03-21,North,Sports,Coffee Maker,David,2,86.96,173.92,14.64
+ORD1050,2024-02-22,North,Clothing,Jacket,Alice,6,974.65,5847.9,1681.62
+ORD1051,2024-03-15,East,Clothing,Chair,Alice,10,986.35,9863.5,1592.97
+ORD1052,2024-10-22,South,Clothing,Chair,Alice,4,701.18,2804.72,270.05
+ORD1053,2024-05-14,West,Furniture,Jacket,Bob,18,540.74,9733.32,1805.29
+ORD1054,2024-07-15,South,Food & Beverage,T-Shirt,Bob,12,316.43,3797.16,1018.54
+ORD1055,2024-05-31,South,Clothing,Jacket,Frank,2,815.66,1631.32,380.19
+ORD1056,2024-05-21,North,Clothing,Basketball,Alice,10,687.88,6878.8,1730.98
+ORD1057,2024-05-15,West,Food & Beverage,Basketball,Bob,4,170.99,683.96,146.84
+ORD1058,2024-05-04,South,Clothing,Blender,Eva,14,911.82,12765.48,2847.58
+ORD1059,2024-05-28,East,Food & Beverage,Coffee Maker,Helen,16,824.31,13188.96,3459.45
+ORD1060,2024-01-01,West,Electronics,Blender,Alice,15,950.3,14254.5,1602.45
+ORD1061,2024-09-28,South,Sports,Laptop,Charlie,8,728.46,5827.68,1004.44
+ORD1062,2024-01-16,North,Clothing,Tennis Racket,David,14,617.28,8641.92,910.01
+ORD1063,2024-04-09,East,Electronics,Desk,Grace,8,424.06,3392.48,1007.28
+ORD1064,2024-11-21,West,Clothing,Laptop,Charlie,16,933.4,14934.4,4271.46
+ORD1065,2024-09-03,West,Furniture,Headphones,Frank,13,867.4,11276.2,674.96
+ORD1066,2024-04-01,East,Electronics,Basketball,David,18,54.77,985.86,223.19
+ORD1067,2024-02-13,West,Furniture,Coffee Maker,Bob,15,36.1,541.5,152.33
+ORD1068,2024-01-12,East,Electronics,Headphones,Eva,13,382.7,4975.1,473.35
+ORD1069,2024-11-30,West,Clothing,Chair,Bob,9,812.45,7312.05,1403.81
+ORD1070,2024-06-25,East,Sports,Blender,Helen,15,987.4,14811.0,4130.37
+ORD1071,2024-02-10,South,Sports,Laptop,Frank,13,158.91,2065.83,120.82
+ORD1072,2024-04-13,North,Furniture,Blender,Bob,1,598.19,598.19,134.21
+ORD1073,2024-08-30,South,Electronics,Blender,Eva,7,387.08,2709.56,336.9
+ORD1074,2024-09-12,North,Furniture,Blender,Grace,9,970.22,8731.98,2454.55
+ORD1075,2024-06-12,East,Clothing,Chair,Frank,1,843.7,843.7,247.01
+ORD1076,2024-02-16,South,Food & Beverage,Basketball,Charlie,12,839.95,10079.4,2883.38
+ORD1077,2024-12-10,East,Food & Beverage,Blender,Frank,8,474.01,3792.08,639.17
+ORD1078,2024-05-27,South,Food & Beverage,Headphones,Eva,11,420.67,4627.37,1228.62
+ORD1079,2024-05-09,South,Clothing,Headphones,Charlie,19,280.67,5332.73,1392.57
+ORD1080,2024-05-11,North,Clothing,T-Shirt,Eva,17,65.81,1118.77,145.19
+ORD1081,2024-07-17,West,Clothing,Blender,Eva,8,866.08,6928.64,1782.25
+ORD1082,2024-04-27,East,Sports,Jacket,Bob,3,814.77,2444.31,144.83
+ORD1083,2024-06-28,West,Clothing,Laptop,Helen,3,999.72,2999.16,597.04
+ORD1084,2024-07-02,South,Electronics,Headphones,Bob,1,996.67,996.67,107.14
+ORD1085,2024-09-12,West,Food & Beverage,Coffee Maker,Grace,5,559.88,2799.4,224.35
+ORD1086,2024-04-09,East,Sports,Blender,Frank,10,771.3,7713.0,534.04
+ORD1087,2024-07-15,East,Furniture,Tennis Racket,Charlie,7,945.32,6617.24,1482.74
+ORD1088,2024-12-26,East,Clothing,Desk,Eva,9,851.15,7660.35,1033.91
+ORD1089,2024-09-15,East,Clothing,Tennis Racket,Bob,7,254.87,1784.09,412.47
+ORD1090,2024-01-31,South,Electronics,Desk,Grace,9,456.04,4104.36,272.28
+ORD1091,2024-04-16,East,Electronics,Headphones,Bob,8,137.87,1102.96,142.09
+ORD1092,2024-06-23,East,Food & Beverage,Jacket,Grace,12,954.51,11454.12,2117.56
+ORD1093,2024-12-06,West,Clothing,Jacket,Bob,2,610.11,1220.22,302.23
+ORD1094,2024-12-16,South,Clothing,Jacket,Frank,1,236.36,236.36,30.65
+ORD1095,2024-11-23,South,Furniture,Jacket,Frank,16,674.98,10799.68,2229.84
+ORD1096,2024-02-08,East,Sports,Blender,Bob,5,621.95,3109.75,844.28
+ORD1097,2024-12-07,West,Sports,Headphones,Eva,3,364.58,1093.74,223.09
+ORD1098,2024-06-11,South,Food & Beverage,Desk,Eva,12,122.42,1469.04,159.01
+ORD1099,2024-12-26,East,Sports,Headphones,Charlie,8,674.86,5398.88,302.88
+ORD1100,2024-08-01,South,Furniture,Chair,Alice,3,525.1,1575.3,421.43
+ORD1101,2024-09-15,South,Clothing,Coffee Maker,Alice,1,774.6,774.6,42.85
+ORD1102,2024-04-05,South,Clothing,T-Shirt,Eva,3,524.96,1574.88,423.13
+ORD1103,2024-12-22,South,Food & Beverage,Laptop,Alice,5,853.66,4268.3,777.83
+ORD1104,2024-01-27,East,Food & Beverage,Tennis Racket,Bob,15,556.39,8345.85,2376.62
+ORD1105,2024-12-17,North,Electronics,Chair,David,14,565.33,7914.62,1976.25
+ORD1106,2024-02-13,East,Furniture,Laptop,Eva,3,877.89,2633.67,788.74
+ORD1107,2024-03-06,West,Food & Beverage,Desk,Eva,1,409.45,409.45,56.37
+ORD1108,2024-01-20,West,Furniture,Chair,Helen,5,142.68,713.4,172.5
+ORD1109,2024-03-24,South,Clothing,Blender,Grace,14,38.49,538.86,81.09
+ORD1110,2024-09-23,West,Electronics,T-Shirt,Alice,7,757.59,5303.13,901.37
+ORD1111,2024-02-28,West,Clothing,Coffee Maker,Grace,9,624.11,5616.99,1162.02
+ORD1112,2024-08-29,North,Food & Beverage,T-Shirt,Alice,15,707.04,10605.6,2846.75
+ORD1113,2024-06-15,West,Sports,Blender,Eva,15,220.83,3312.45,980.55
+ORD1114,2024-12-03,South,Clothing,Laptop,Frank,10,145.01,1450.1,351.02
+ORD1115,2024-03-08,East,Clothing,Headphones,David,13,24.4,317.2,48.99
+ORD1116,2024-08-03,West,Food & Beverage,Blender,Frank,19,357.08,6784.52,1053.9
+ORD1117,2024-01-22,West,Food & Beverage,Chair,Helen,7,594.02,4158.14,974.65
+ORD1118,2024-12-05,North,Sports,Tennis Racket,Charlie,17,398.32,6771.44,742.79
+ORD1119,2024-11-25,South,Sports,T-Shirt,Eva,4,443.1,1772.4,137.57
+ORD1120,2024-06-17,North,Food & Beverage,Tennis Racket,Charlie,5,905.12,4525.6,627.5
+ORD1121,2024-06-29,North,Food & Beverage,Coffee Maker,Frank,7,354.77,2483.39,302.5
+ORD1122,2024-12-03,South,Clothing,Coffee Maker,Alice,13,518.85,6745.05,836.91
+ORD1123,2024-07-16,North,Electronics,Tennis Racket,Eva,15,785.82,11787.3,1277.77
+ORD1124,2024-12-06,West,Clothing,Desk,David,11,402.58,4428.38,268.02
+ORD1125,2024-03-06,East,Food & Beverage,T-Shirt,Grace,4,625.87,2503.48,136.36
+ORD1126,2024-02-22,West,Electronics,T-Shirt,Charlie,13,863.74,11228.62,3334.12
+ORD1127,2024-01-06,South,Clothing,Chair,Charlie,7,950.03,6650.21,1043.71
+ORD1128,2024-05-25,South,Furniture,Jacket,Bob,19,155.6,2956.4,431.88
+ORD1129,2024-10-26,North,Food & Beverage,Chair,Eva,2,927.32,1854.64,407.86
+ORD1130,2024-07-28,South,Clothing,Headphones,David,10,497.2,4972.0,519.89
+ORD1131,2024-05-27,East,Electronics,Blender,Frank,13,265.66,3453.58,992.87
+ORD1132,2024-11-29,East,Sports,Headphones,Grace,6,464.54,2787.24,687.3
+ORD1133,2024-04-14,East,Food & Beverage,Laptop,Charlie,12,980.23,11762.76,851.07
+ORD1134,2024-10-14,South,Furniture,T-Shirt,Grace,12,497.69,5972.28,922.09
+ORD1135,2024-09-20,East,Electronics,T-Shirt,Alice,11,335.46,3690.06,995.5
+ORD1136,2024-09-05,South,Food & Beverage,Basketball,Bob,7,637.07,4459.49,1276.23
+ORD1137,2024-12-05,North,Furniture,Headphones,Grace,1,247.74,247.74,41.34
+ORD1138,2024-05-30,South,Electronics,Chair,Bob,1,85.1,85.1,17.31
+ORD1139,2024-02-19,South,Sports,Blender,David,13,137.59,1788.67,164.13
+ORD1140,2024-09-11,North,Food & Beverage,Tennis Racket,Eva,9,136.77,1230.93,366.56
+ORD1141,2024-08-19,West,Electronics,Chair,Helen,3,160.38,481.14,51.92
+ORD1142,2024-01-21,South,Electronics,Laptop,Charlie,7,147.44,1032.08,294.85
+ORD1143,2024-12-30,North,Food & Beverage,Chair,Bob,6,644.47,3866.82,821.36
+ORD1144,2024-12-04,North,Food & Beverage,Chair,Frank,8,190.06,1520.48,307.04
+ORD1145,2024-05-17,North,Furniture,Jacket,Bob,9,352.21,3169.89,564.79
+ORD1146,2024-03-06,South,Food & Beverage,Jacket,Alice,5,897.82,4489.1,483.33
+ORD1147,2024-08-18,South,Clothing,Desk,Eva,1,479.22,479.22,45.11
+ORD1148,2024-08-09,East,Clothing,T-Shirt,David,19,670.88,12746.72,1339.95
+ORD1149,2024-02-03,South,Electronics,Laptop,Eva,10,180.6,1806.0,174.48
+ORD1150,2024-06-15,West,Food & Beverage,Tennis Racket,Alice,12,200.37,2404.44,588.84
+ORD1151,2024-06-27,West,Sports,Blender,David,15,50.46,756.9,104.1
+ORD1152,2024-03-23,East,Electronics,Basketball,Frank,9,177.25,1595.25,102.83
+ORD1153,2024-04-30,South,Sports,Basketball,Bob,17,285.8,4858.6,1420.05
+ORD1154,2024-10-16,South,Food & Beverage,Coffee Maker,Eva,17,185.24,3149.08,853.23
+ORD1155,2024-04-20,South,Furniture,Headphones,Charlie,12,97.82,1173.84,330.95
+ORD1156,2024-01-09,West,Furniture,Blender,Helen,7,129.43,906.01,270.65
+ORD1157,2024-04-25,East,Furniture,Basketball,Helen,2,466.17,932.34,87.15
+ORD1158,2024-01-23,East,Sports,Blender,Grace,3,214.27,642.81,95.82
+ORD1159,2024-01-15,East,Sports,Laptop,Alice,17,370.63,6300.71,1509.4
+ORD1160,2024-08-16,East,Furniture,Chair,David,5,508.38,2541.9,569.4
+ORD1161,2024-09-03,East,Clothing,Coffee Maker,Charlie,17,693.49,11789.33,1043.05
+ORD1162,2024-11-03,West,Sports,Headphones,Charlie,17,48.92,831.64,211.2
+ORD1163,2024-05-16,East,Food & Beverage,Jacket,Alice,17,801.42,13624.14,1445.66
+ORD1164,2024-10-29,South,Electronics,Desk,Helen,2,631.62,1263.24,133.85
+ORD1165,2024-06-05,West,Food & Beverage,Jacket,Grace,2,90.94,181.88,33.51
+ORD1166,2024-05-09,East,Electronics,Coffee Maker,Grace,5,874.84,4374.2,867.12
+ORD1167,2024-12-09,North,Clothing,Tennis Racket,Charlie,1,921.66,921.66,179.74
+ORD1168,2024-01-16,West,Clothing,Coffee Maker,Grace,1,70.47,70.47,5.14
+ORD1169,2024-08-26,West,Sports,T-Shirt,Alice,19,284.11,5398.09,1454.06
+ORD1170,2024-05-09,South,Electronics,Chair,Grace,2,808.14,1616.28,188.14
+ORD1171,2024-06-08,West,Electronics,Blender,Bob,12,750.78,9009.36,742.18
+ORD1172,2024-11-02,East,Food & Beverage,Coffee Maker,Bob,6,192.68,1156.08,314.67
+ORD1173,2024-08-07,West,Clothing,Headphones,Bob,4,217.26,869.04,251.08
+ORD1174,2024-10-29,West,Food & Beverage,Tennis Racket,Bob,11,376.77,4144.47,1100.49
+ORD1175,2024-03-18,West,Electronics,Basketball,David,17,489.68,8324.56,2100.94
+ORD1176,2024-08-15,West,Food & Beverage,Basketball,David,6,622.07,3732.42,798.03
+ORD1177,2024-02-03,West,Sports,Blender,Grace,5,375.22,1876.1,352.17
+ORD1178,2024-03-16,South,Food & Beverage,Basketball,Eva,2,467.91,935.82,67.14
+ORD1179,2024-08-03,East,Furniture,Laptop,Alice,6,750.0,4500.0,684.51
+ORD1180,2024-05-15,North,Electronics,Blender,Bob,11,46.32,509.52,72.95
+ORD1181,2024-02-23,North,Electronics,Chair,Grace,16,259.91,4158.56,477.98
+ORD1182,2024-06-21,East,Sports,Blender,Bob,16,716.22,11459.52,2645.49
+ORD1183,2024-03-01,West,Furniture,Headphones,Frank,1,896.25,896.25,155.92
+ORD1184,2024-06-16,West,Food & Beverage,Headphones,David,9,516.56,4649.04,326.65
+ORD1185,2024-10-23,East,Sports,Laptop,Helen,6,536.79,3220.74,338.33
+ORD1186,2024-09-19,West,Clothing,Jacket,Grace,16,116.1,1857.6,410.19
+ORD1187,2024-04-15,North,Sports,Desk,Frank,3,452.94,1358.82,93.8
+ORD1188,2024-08-18,South,Clothing,Laptop,David,4,537.29,2149.16,564.8
+ORD1189,2024-07-03,West,Clothing,T-Shirt,Bob,19,250.05,4750.95,825.65
+ORD1190,2024-06-23,South,Food & Beverage,Basketball,Grace,3,276.55,829.65,141.16
+ORD1191,2024-09-19,West,Sports,Coffee Maker,Eva,19,383.51,7286.69,1443.51
+ORD1192,2024-08-28,East,Electronics,Headphones,David,7,29.87,209.09,53.56
+ORD1193,2024-04-24,West,Electronics,T-Shirt,Frank,9,328.86,2959.74,405.34
+ORD1194,2024-07-10,West,Sports,Basketball,Alice,1,219.33,219.33,48.14
+ORD1195,2024-02-07,West,Food & Beverage,Laptop,Charlie,8,334.22,2673.76,511.85
+ORD1196,2024-01-04,North,Food & Beverage,Basketball,Helen,7,128.56,899.92,105.07
+ORD1197,2024-10-20,South,Clothing,Desk,Bob,18,891.62,16049.16,4327.78
+ORD1198,2024-12-31,East,Sports,Tennis Racket,Charlie,8,597.66,4781.28,1192.24
+ORD1199,2024-02-24,North,Food & Beverage,Chair,David,1,682.31,682.31,146.43
+ORD1200,2024-07-15,North,Electronics,Basketball,Frank,11,791.28,8704.08,2286.09
+ORD1201,2024-10-07,South,Sports,T-Shirt,David,18,503.46,9062.28,2418.03
+ORD1202,2024-05-19,East,Electronics,Coffee Maker,Frank,10,96.05,960.5,218.12
+ORD1203,2024-01-02,North,Sports,Laptop,Charlie,3,541.74,1625.22,421.34
+ORD1204,2024-01-09,West,Food & Beverage,Chair,Grace,7,590.97,4136.79,928.16
+ORD1205,2024-02-06,West,Sports,Desk,Frank,16,747.99,11967.84,2633.35
+ORD1206,2024-04-09,West,Furniture,Jacket,David,16,437.34,6997.44,1432.05
+ORD1207,2024-03-13,North,Clothing,Headphones,Grace,17,136.3,2317.1,551.88
+ORD1208,2024-11-25,North,Sports,Jacket,Charlie,2,290.94,581.88,52.17
+ORD1209,2024-04-22,East,Clothing,Blender,Frank,1,369.45,369.45,99.83
+ORD1210,2024-01-21,North,Electronics,Tennis Racket,Bob,16,649.46,10391.36,2784.48
+ORD1211,2024-04-19,East,Food & Beverage,T-Shirt,Alice,12,575.07,6900.84,395.5
+ORD1212,2024-06-17,North,Clothing,Coffee Maker,Grace,5,362.54,1812.7,464.87
+ORD1213,2024-06-18,South,Sports,Jacket,Eva,5,986.65,4933.25,405.6
+ORD1214,2024-05-23,East,Furniture,Basketball,Grace,9,609.72,5487.48,734.11
+ORD1215,2024-01-07,South,Electronics,Jacket,Frank,9,244.85,2203.65,519.79
+ORD1216,2024-01-10,West,Clothing,T-Shirt,Charlie,3,110.76,332.28,29.97
+ORD1217,2024-04-24,North,Electronics,Coffee Maker,Frank,19,161.33,3065.27,780.09
+ORD1218,2024-09-02,South,Sports,Jacket,David,16,253.5,4056.0,1046.58
+ORD1219,2024-09-22,South,Electronics,Basketball,Eva,16,169.07,2705.12,478.45
+ORD1220,2024-11-08,North,Food & Beverage,T-Shirt,Alice,3,194.7,584.1,30.14
+ORD1221,2024-11-21,West,Sports,Blender,Grace,1,292.24,292.24,35.58
+ORD1222,2024-12-16,North,Sports,Desk,Eva,11,181.64,1998.04,408.06
+ORD1223,2024-01-31,East,Clothing,Blender,Alice,17,897.8,15262.6,4506.99
+ORD1224,2024-10-31,North,Sports,Jacket,David,8,89.43,715.44,148.78
+ORD1225,2024-12-30,South,Furniture,Basketball,Eva,4,529.27,2117.08,243.36
+ORD1226,2024-01-05,South,Food & Beverage,Chair,David,6,416.29,2497.74,520.78
+ORD1227,2024-10-23,West,Clothing,Coffee Maker,Grace,8,982.55,7860.4,1454.15
+ORD1228,2024-01-17,North,Food & Beverage,Desk,Helen,3,120.92,362.76,88.86
+ORD1229,2024-07-19,North,Furniture,Basketball,Grace,16,403.88,6462.08,495.93
+ORD1230,2024-11-14,West,Furniture,Chair,David,3,969.78,2909.34,698.99
+ORD1231,2024-09-24,North,Food & Beverage,Laptop,Charlie,18,866.85,15603.3,2891.55
+ORD1232,2024-09-26,East,Sports,Chair,Helen,14,818.9,11464.6,3333.31
+ORD1233,2024-12-29,East,Clothing,Tennis Racket,Alice,18,265.32,4775.76,646.96
+ORD1234,2024-05-26,South,Electronics,Coffee Maker,Helen,2,179.18,358.36,74.59
+ORD1235,2024-04-19,South,Furniture,Desk,Frank,3,671.96,2015.88,570.51
+ORD1236,2024-04-05,West,Food & Beverage,Desk,Eva,16,930.08,14881.28,1125.43
+ORD1237,2024-02-09,East,Food & Beverage,Jacket,Frank,9,561.2,5050.8,1435.98
+ORD1238,2024-05-12,East,Clothing,Desk,Eva,4,575.9,2303.6,511.33
+ORD1239,2024-12-13,East,Food & Beverage,T-Shirt,Helen,1,287.18,287.18,19.23
+ORD1240,2024-12-15,East,Furniture,Desk,Frank,4,771.8,3087.2,386.64
+ORD1241,2024-08-08,West,Sports,Laptop,Frank,1,195.17,195.17,44.31
+ORD1242,2024-08-18,West,Furniture,Headphones,Helen,14,330.44,4626.16,309.2
+ORD1243,2024-09-11,South,Electronics,Blender,Grace,16,431.18,6898.88,1349.03
+ORD1244,2024-06-14,West,Electronics,Headphones,Bob,8,512.53,4100.24,559.56
+ORD1245,2024-07-13,North,Furniture,T-Shirt,Alice,7,249.99,1749.93,359.14
+ORD1246,2024-02-22,West,Furniture,Blender,Helen,3,123.69,371.07,22.8
+ORD1247,2024-12-14,South,Food & Beverage,Basketball,Charlie,17,614.51,10446.67,2798.5
+ORD1248,2024-06-29,West,Food & Beverage,Laptop,Helen,1,295.74,295.74,86.76
+ORD1249,2024-09-27,North,Food & Beverage,Jacket,Alice,16,585.43,9366.88,2737.18
+ORD1250,2024-04-15,West,Clothing,Basketball,Helen,12,162.82,1953.84,463.87
+ORD1251,2024-08-09,South,Sports,Jacket,Eva,19,486.33,9240.27,762.52
+ORD1252,2024-02-22,South,Sports,Coffee Maker,Eva,14,537.26,7521.64,1801.93
+ORD1253,2024-12-11,West,Furniture,T-Shirt,Bob,6,61.31,367.86,20.65
+ORD1254,2024-12-01,West,Furniture,Coffee Maker,David,6,343.24,2059.44,114.36
+ORD1255,2024-11-08,North,Electronics,Laptop,David,13,143.07,1859.91,243.47
+ORD1256,2024-12-20,East,Electronics,Desk,David,19,72.74,1382.06,237.94
+ORD1257,2024-02-21,West,Electronics,Jacket,Alice,8,990.06,7920.48,1921.52
+ORD1258,2024-04-17,North,Furniture,Desk,Alice,2,329.13,658.26,145.36
+ORD1259,2024-04-12,South,Clothing,Desk,Frank,1,811.78,811.78,131.08
+ORD1260,2024-09-23,South,Electronics,Blender,Grace,15,262.09,3931.35,465.5
+ORD1261,2024-09-03,East,Clothing,Coffee Maker,Eva,1,684.69,684.69,204.91
+ORD1262,2024-01-05,North,Food & Beverage,Chair,Eva,5,762.63,3813.15,596.93
+ORD1263,2024-09-04,North,Furniture,Tennis Racket,Bob,16,599.68,9594.88,1562.5
+ORD1264,2024-06-29,West,Furniture,Jacket,Frank,19,476.86,9060.34,823.64
+ORD1265,2024-02-14,East,Furniture,Jacket,Frank,4,417.72,1670.88,415.55
+ORD1266,2024-03-29,South,Sports,Jacket,Grace,3,355.38,1066.14,238.2
+ORD1267,2024-12-02,East,Clothing,Blender,Helen,17,930.23,15813.91,1663.5
+ORD1268,2024-08-23,North,Clothing,Blender,Helen,17,832.31,14149.27,998.87
+ORD1269,2024-11-20,West,Furniture,Chair,Eva,12,965.38,11584.56,2550.05
+ORD1270,2024-07-26,North,Furniture,Tennis Racket,Helen,14,133.05,1862.7,397.92
+ORD1271,2024-08-08,South,Food & Beverage,Blender,Frank,6,733.56,4401.36,520.75
+ORD1272,2024-07-09,North,Clothing,Laptop,Bob,3,938.96,2816.88,810.46
+ORD1273,2024-10-30,South,Sports,Chair,Frank,9,189.42,1704.78,149.62
+ORD1274,2024-05-18,North,Sports,Basketball,Charlie,5,75.83,379.15,59.94
+ORD1275,2024-07-02,South,Furniture,Blender,Charlie,17,743.71,12643.07,3614.7
+ORD1276,2024-10-30,West,Electronics,Laptop,Charlie,14,578.73,8102.22,1255.29
+ORD1277,2024-10-14,West,Clothing,Laptop,Eva,3,843.41,2530.23,530.42
+ORD1278,2024-12-14,West,Electronics,Coffee Maker,Alice,1,148.37,148.37,22.17
+ORD1279,2024-04-26,South,Sports,Tennis Racket,Charlie,1,797.31,797.31,94.52
+ORD1280,2024-04-03,North,Sports,Jacket,Bob,3,209.61,628.83,186.13
+ORD1281,2024-06-01,South,Clothing,Headphones,Frank,18,172.02,3096.36,471.68
+ORD1282,2024-01-03,South,Clothing,Headphones,Eva,10,172.62,1726.2,472.16
+ORD1283,2024-09-04,South,Clothing,Jacket,Charlie,3,816.43,2449.29,263.27
+ORD1284,2024-04-05,South,Furniture,Laptop,Grace,8,668.55,5348.4,552.36
+ORD1285,2024-05-06,West,Furniture,Laptop,Bob,14,527.83,7389.62,427.0
+ORD1286,2024-02-08,East,Furniture,Headphones,Bob,18,365.24,6574.32,1399.78
+ORD1287,2024-04-13,East,Clothing,Headphones,David,15,878.43,13176.45,1872.79
+ORD1288,2024-02-08,West,Sports,Basketball,Helen,2,398.52,797.04,212.08
+ORD1289,2024-12-10,East,Electronics,T-Shirt,Grace,10,818.43,8184.3,1377.44
+ORD1290,2024-11-08,North,Clothing,Blender,Eva,2,444.74,889.48,259.77
+ORD1291,2024-12-03,East,Furniture,Tennis Racket,Frank,17,383.17,6513.89,627.82
+ORD1292,2024-07-21,South,Clothing,Chair,Frank,8,468.05,3744.4,1000.34
+ORD1293,2024-04-20,North,Electronics,Blender,Alice,1,308.36,308.36,75.29
+ORD1294,2024-12-06,East,Food & Beverage,Basketball,Bob,9,750.13,6751.17,1638.71
+ORD1295,2024-02-12,East,Food & Beverage,Coffee Maker,Grace,11,507.69,5584.59,1458.67
+ORD1296,2024-08-03,East,Electronics,Jacket,David,16,239.89,3838.24,922.16
+ORD1297,2024-05-17,East,Food & Beverage,Coffee Maker,Charlie,7,900.58,6304.06,1302.14
+ORD1298,2024-03-30,North,Food & Beverage,Tennis Racket,Helen,10,390.05,3900.5,323.01
+ORD1299,2024-11-02,South,Electronics,Jacket,Frank,3,548.12,1644.36,95.59
+ORD1300,2024-09-12,South,Electronics,Coffee Maker,Frank,18,907.41,16333.38,4576.81
+ORD1301,2024-05-27,North,Sports,Laptop,Charlie,13,628.0,8164.0,1666.78
+ORD1302,2024-08-16,East,Food & Beverage,Coffee Maker,Helen,7,125.73,880.11,219.27
+ORD1303,2024-08-11,West,Electronics,Headphones,Grace,4,940.43,3761.72,640.92
+ORD1304,2024-06-01,North,Sports,Tennis Racket,Helen,13,631.43,8208.59,651.16
+ORD1305,2024-06-02,East,Sports,Laptop,Charlie,1,341.56,341.56,27.77
+ORD1306,2024-04-23,North,Furniture,Laptop,David,8,147.88,1183.04,261.91
+ORD1307,2024-06-25,East,Food & Beverage,Blender,Eva,14,796.08,11145.12,1756.21
+ORD1308,2024-11-28,South,Electronics,Chair,David,16,623.87,9981.92,999.5
+ORD1309,2024-06-14,South,Food & Beverage,Jacket,Helen,14,538.13,7533.82,1302.59
+ORD1310,2024-12-31,West,Electronics,Laptop,Charlie,12,894.95,10739.4,709.36
+ORD1311,2024-03-27,West,Clothing,Headphones,Alice,19,790.71,15023.49,2936.98
+ORD1312,2024-05-08,West,Furniture,Jacket,David,15,160.16,2402.4,281.68
+ORD1313,2024-09-06,North,Food & Beverage,Headphones,Grace,2,318.6,637.2,158.91
+ORD1314,2024-05-17,North,Clothing,Blender,Eva,2,256.0,512.0,65.33
+ORD1315,2024-08-04,South,Sports,Headphones,Helen,19,746.51,14183.69,2323.36
+ORD1316,2024-12-02,South,Sports,Headphones,Helen,17,43.2,734.4,38.85
+ORD1317,2024-12-24,East,Sports,T-Shirt,Eva,10,574.19,5741.9,391.09
+ORD1318,2024-12-30,North,Food & Beverage,Basketball,Charlie,6,764.83,4588.98,679.74
+ORD1319,2024-09-15,South,Clothing,Chair,Alice,15,878.0,13170.0,2238.7
+ORD1320,2024-10-09,South,Clothing,Desk,Grace,11,348.66,3835.26,767.07
+ORD1321,2024-06-13,South,Food & Beverage,Basketball,Eva,5,823.04,4115.2,505.82
+ORD1322,2024-11-02,West,Food & Beverage,Desk,Grace,1,119.53,119.53,26.74
+ORD1323,2024-03-16,West,Electronics,Desk,David,8,847.99,6783.92,1797.95
+ORD1324,2024-04-17,North,Electronics,Basketball,Bob,12,136.21,1634.52,400.4
+ORD1325,2024-05-29,West,Clothing,Headphones,David,12,403.31,4839.72,289.92
+ORD1326,2024-02-14,North,Electronics,Laptop,Bob,5,799.32,3996.6,679.93
+ORD1327,2024-11-30,East,Electronics,T-Shirt,Grace,7,158.42,1108.94,84.54
+ORD1328,2024-02-26,East,Food & Beverage,Basketball,Frank,4,236.96,947.84,104.75
+ORD1329,2024-11-13,West,Sports,T-Shirt,David,6,725.03,4350.18,1290.55
+ORD1330,2024-07-11,East,Clothing,Headphones,David,13,722.84,9396.92,804.6
+ORD1331,2024-03-03,West,Food & Beverage,Jacket,Alice,15,644.74,9671.1,1689.75
+ORD1332,2024-02-20,North,Furniture,Tennis Racket,Frank,3,697.01,2091.03,427.7
+ORD1333,2024-04-08,West,Clothing,Blender,Bob,8,547.3,4378.4,987.84
+ORD1334,2024-05-07,West,Electronics,Chair,Helen,16,259.28,4148.48,787.85
+ORD1335,2024-05-04,North,Clothing,Desk,Charlie,13,352.24,4579.12,240.14
+ORD1336,2024-01-07,South,Electronics,T-Shirt,Helen,18,189.78,3416.04,449.6
+ORD1337,2024-08-11,West,Electronics,Laptop,Bob,10,909.37,9093.7,1631.66
+ORD1338,2024-11-24,East,Clothing,Jacket,Grace,19,587.56,11163.64,803.41
+ORD1339,2024-11-16,North,Clothing,T-Shirt,Helen,17,406.84,6916.28,952.07
+ORD1340,2024-04-19,East,Electronics,Desk,Alice,19,467.39,8880.41,517.73
+ORD1341,2024-10-16,South,Clothing,Laptop,Bob,5,947.81,4739.05,330.05
+ORD1342,2024-11-24,West,Electronics,Coffee Maker,David,9,161.82,1456.38,217.34
+ORD1343,2024-03-03,East,Sports,Coffee Maker,David,12,590.37,7084.44,589.28
+ORD1344,2024-05-13,South,Clothing,Tennis Racket,Alice,1,510.83,510.83,98.02
+ORD1345,2024-09-24,South,Food & Beverage,Laptop,David,1,615.34,615.34,136.83
+ORD1346,2024-09-25,North,Food & Beverage,Headphones,Charlie,15,27.93,418.95,104.8
+ORD1347,2024-01-17,North,Clothing,T-Shirt,Alice,2,873.4,1746.8,174.75
+ORD1348,2024-05-30,North,Electronics,Desk,Grace,16,932.8,14924.8,1371.15
+ORD1349,2024-11-01,North,Clothing,Headphones,Frank,8,569.48,4555.84,346.89
+ORD1350,2024-08-25,South,Clothing,Desk,Frank,13,699.68,9095.84,1902.01
+ORD1351,2024-01-18,East,Food & Beverage,Headphones,Grace,1,923.27,923.27,209.23
+ORD1352,2024-12-26,East,Furniture,Basketball,Eva,16,710.17,11362.72,657.86
+ORD1353,2024-09-30,West,Food & Beverage,Headphones,Bob,7,161.01,1127.07,320.15
+ORD1354,2024-08-11,North,Sports,Laptop,Alice,5,580.53,2902.65,182.85
+ORD1355,2024-08-05,North,Sports,Blender,Bob,3,610.65,1831.95,339.5
+ORD1356,2024-01-16,West,Electronics,Headphones,Alice,12,429.89,5158.68,1172.39
+ORD1357,2024-10-08,South,Sports,Blender,David,16,739.08,11825.28,3166.13
+ORD1358,2024-01-14,East,Sports,T-Shirt,Alice,19,935.02,17765.38,4059.78
+ORD1359,2024-11-06,West,Sports,Chair,Grace,5,926.31,4631.55,1159.89
+ORD1360,2024-10-02,North,Food & Beverage,T-Shirt,Grace,14,456.33,6388.62,861.59
+ORD1361,2024-08-11,South,Sports,Desk,Frank,5,122.11,610.55,154.9
+ORD1362,2024-03-24,East,Sports,Headphones,Charlie,15,984.99,14774.85,1034.66
+ORD1363,2024-07-09,West,Furniture,Basketball,Bob,17,840.51,14288.67,3910.87
+ORD1364,2024-12-09,West,Food & Beverage,Blender,Alice,14,133.42,1867.88,349.1
+ORD1365,2024-09-29,East,Furniture,Desk,Helen,5,921.63,4608.15,1171.97
+ORD1366,2024-12-26,East,Furniture,Blender,Alice,12,871.2,10454.4,1704.9
+ORD1367,2024-10-27,North,Sports,Basketball,Bob,16,523.65,8378.4,1766.96
+ORD1368,2024-10-19,North,Clothing,Chair,Charlie,16,595.36,9525.76,1729.88
+ORD1369,2024-08-22,South,Electronics,Coffee Maker,Alice,7,405.01,2835.07,660.28
+ORD1370,2024-05-29,West,Electronics,Desk,Frank,4,64.21,256.84,18.08
+ORD1371,2024-11-14,West,Electronics,Desk,Frank,1,341.85,341.85,22.25
+ORD1372,2024-05-02,South,Clothing,Coffee Maker,Frank,5,804.82,4024.1,449.8
+ORD1373,2024-09-14,South,Sports,Headphones,Frank,10,14.59,145.9,13.11
+ORD1374,2024-01-23,South,Food & Beverage,Desk,Helen,5,340.16,1700.8,455.72
+ORD1375,2024-10-05,West,Electronics,Tennis Racket,Grace,4,404.19,1616.76,169.44
+ORD1376,2024-08-06,West,Clothing,Jacket,David,2,542.02,1084.04,318.67
+ORD1377,2024-11-27,West,Clothing,T-Shirt,Alice,10,920.66,9206.6,1235.75
+ORD1378,2024-12-28,West,Electronics,T-Shirt,Helen,19,352.88,6704.72,640.5
+ORD1379,2024-03-19,West,Clothing,Desk,Charlie,1,353.48,353.48,87.46
+ORD1380,2024-03-13,East,Electronics,Chair,Eva,5,740.13,3700.65,794.44
+ORD1381,2024-06-25,West,Food & Beverage,T-Shirt,Bob,13,457.7,5950.1,1038.58
+ORD1382,2024-07-13,South,Furniture,Blender,Grace,4,232.36,929.44,175.52
+ORD1383,2024-01-08,East,Sports,Laptop,Grace,16,457.92,7326.72,1683.68
+ORD1384,2024-05-30,South,Food & Beverage,Headphones,Charlie,16,149.45,2391.2,256.13
+ORD1385,2024-04-24,West,Clothing,Tennis Racket,Frank,2,184.62,369.24,110.43
+ORD1386,2024-11-24,South,Clothing,Tennis Racket,Frank,17,503.38,8557.46,2513.31
+ORD1387,2024-12-24,North,Food & Beverage,Coffee Maker,Charlie,12,424.74,5096.88,1083.5
+ORD1388,2024-07-09,South,Clothing,T-Shirt,Alice,18,915.7,16482.6,1646.37
+ORD1389,2024-02-23,North,Sports,Blender,Alice,3,368.77,1106.31,243.45
+ORD1390,2024-08-07,West,Sports,Chair,Helen,1,584.78,584.78,39.79
+ORD1391,2024-09-03,West,Electronics,Desk,Helen,1,635.94,635.94,36.67
+ORD1392,2024-01-26,North,Electronics,Blender,Eva,19,22.96,436.24,49.91
+ORD1393,2024-07-03,East,Sports,Basketball,Bob,11,666.9,7335.9,1215.23
+ORD1394,2024-05-30,North,Sports,Laptop,Alice,5,186.26,931.3,248.72
+ORD1395,2024-08-18,North,Food & Beverage,Jacket,Eva,12,961.46,11537.52,2674.31
+ORD1396,2024-01-18,South,Furniture,Blender,Frank,3,157.18,471.54,111.13
+ORD1397,2024-05-01,West,Electronics,Desk,Alice,1,420.48,420.48,65.75
+ORD1398,2024-03-25,South,Furniture,Chair,Helen,1,94.5,94.5,12.9
+ORD1399,2024-02-16,West,Furniture,Chair,David,8,996.91,7975.28,1138.55
+ORD1400,2024-08-28,West,Electronics,Basketball,David,10,507.17,5071.7,1505.85
+ORD1401,2024-04-06,West,Electronics,T-Shirt,Alice,11,599.43,6593.73,395.8
+ORD1402,2024-08-26,North,Sports,Blender,Helen,12,76.41,916.92,244.6
+ORD1403,2024-01-18,East,Electronics,Coffee Maker,Bob,13,752.46,9781.98,1904.25
+ORD1404,2024-03-11,East,Furniture,Coffee Maker,David,12,217.81,2613.72,417.29
+ORD1405,2024-10-24,South,Furniture,Coffee Maker,Charlie,14,899.07,12586.98,2911.55
+ORD1406,2024-11-17,West,Food & Beverage,T-Shirt,Eva,2,213.09,426.18,73.16
+ORD1407,2024-09-05,South,Clothing,T-Shirt,Grace,19,198.78,3776.82,1013.53
+ORD1408,2024-12-13,West,Furniture,Basketball,Alice,18,46.18,831.24,228.74
+ORD1409,2024-11-26,South,Electronics,Basketball,Alice,3,477.35,1432.05,222.58
+ORD1410,2024-10-22,South,Furniture,Blender,Eva,17,569.19,9676.23,1153.47
+ORD1411,2024-05-01,East,Food & Beverage,Tennis Racket,Grace,8,75.05,600.4,118.93
+ORD1412,2024-05-29,West,Furniture,Chair,Grace,10,777.77,7777.7,2162.91
+ORD1413,2024-12-08,North,Furniture,T-Shirt,Eva,2,458.76,917.52,94.2
+ORD1414,2024-03-31,West,Food & Beverage,Coffee Maker,Charlie,19,529.15,10053.85,2068.5
+ORD1415,2024-10-22,North,Food & Beverage,Blender,Alice,9,446.36,4017.24,835.14
+ORD1416,2024-04-27,South,Food & Beverage,Blender,Frank,7,406.76,2847.32,664.22
+ORD1417,2024-10-31,North,Sports,Coffee Maker,Bob,4,564.04,2256.16,187.02
+ORD1418,2024-05-03,North,Sports,Basketball,Charlie,18,163.69,2946.42,674.6
+ORD1419,2024-07-23,West,Furniture,Blender,Grace,13,190.11,2471.43,685.22
+ORD1420,2024-11-13,North,Sports,T-Shirt,David,11,863.17,9494.87,901.26
+ORD1421,2024-03-11,West,Electronics,Basketball,David,4,946.65,3786.6,414.2
+ORD1422,2024-02-18,East,Sports,Desk,Charlie,4,379.58,1518.32,444.64
+ORD1423,2024-01-15,East,Furniture,Blender,Helen,10,278.04,2780.4,264.82
+ORD1424,2024-01-06,South,Food & Beverage,Desk,David,5,647.56,3237.8,853.47
+ORD1425,2024-11-24,North,Food & Beverage,Coffee Maker,Alice,9,414.65,3731.85,645.87
+ORD1426,2024-09-27,East,Sports,Chair,Charlie,3,35.13,105.39,11.78
+ORD1427,2024-04-14,East,Clothing,T-Shirt,Charlie,17,164.59,2798.03,749.0
+ORD1428,2024-04-27,South,Sports,Chair,Helen,3,718.81,2156.43,347.89
+ORD1429,2024-01-24,South,Furniture,Blender,David,16,662.33,10597.28,1893.78
+ORD1430,2024-01-30,West,Sports,Blender,Grace,4,36.83,147.32,20.6
+ORD1431,2024-11-17,East,Furniture,Blender,David,18,229.75,4135.5,819.81
+ORD1432,2024-01-23,North,Electronics,Desk,Frank,17,238.76,4058.92,368.88
+ORD1433,2024-05-19,North,Furniture,Blender,Helen,7,675.17,4726.19,698.39
+ORD1434,2024-12-17,West,Food & Beverage,Laptop,Alice,5,29.51,147.55,43.14
+ORD1435,2024-09-06,North,Sports,Blender,Helen,12,113.07,1356.84,155.4
+ORD1436,2024-01-18,North,Clothing,Chair,David,17,801.92,13632.64,2919.9
+ORD1437,2024-08-14,West,Electronics,Desk,Charlie,13,186.76,2427.88,318.77
+ORD1438,2024-08-09,North,Furniture,Chair,Alice,3,656.22,1968.66,479.11
+ORD1439,2024-01-12,East,Sports,Jacket,Alice,9,245.8,2212.2,182.99
+ORD1440,2024-12-25,North,Food & Beverage,Coffee Maker,Grace,17,108.45,1843.65,539.19
+ORD1441,2024-05-15,East,Food & Beverage,T-Shirt,Charlie,17,250.74,4262.58,696.71
+ORD1442,2024-07-06,West,Sports,Desk,Helen,16,725.04,11600.64,1264.62
+ORD1443,2024-05-20,North,Electronics,Tennis Racket,Alice,13,857.14,11142.82,761.88
+ORD1444,2024-08-16,North,Sports,Desk,Bob,19,831.92,15806.48,1461.14
+ORD1445,2024-10-03,North,Sports,Tennis Racket,Bob,17,403.21,6854.57,1233.44
+ORD1446,2024-07-15,East,Clothing,Desk,Charlie,4,671.4,2685.6,360.54
+ORD1447,2024-06-09,East,Clothing,Jacket,Alice,12,212.93,2555.16,657.24
+ORD1448,2024-10-14,North,Electronics,Basketball,Eva,9,300.22,2701.98,426.16
+ORD1449,2024-09-16,North,Electronics,Desk,Grace,19,897.37,17050.03,1912.65
+ORD1450,2024-03-18,East,Electronics,Coffee Maker,Charlie,12,22.87,274.44,56.06
+ORD1451,2024-03-01,West,Sports,Coffee Maker,David,9,94.65,851.85,193.11
+ORD1452,2024-12-08,East,Clothing,Tennis Racket,David,7,215.81,1510.67,138.62
+ORD1453,2024-05-08,West,Sports,Tennis Racket,Bob,14,36.27,507.78,46.67
+ORD1454,2024-10-06,East,Clothing,Desk,Eva,19,189.62,3602.78,213.17
+ORD1455,2024-09-23,North,Food & Beverage,Blender,Charlie,15,587.21,8808.15,2061.99
+ORD1456,2024-01-01,West,Food & Beverage,Tennis Racket,Helen,16,427.21,6835.36,1476.1
+ORD1457,2024-09-06,North,Furniture,Desk,Helen,5,893.74,4468.7,753.68
+ORD1458,2024-03-18,East,Food & Beverage,Headphones,Helen,3,819.27,2457.81,641.59
+ORD1459,2024-09-14,East,Food & Beverage,Coffee Maker,Helen,12,348.4,4180.8,1051.13
+ORD1460,2024-07-22,South,Clothing,Coffee Maker,Eva,4,266.83,1067.32,209.56
+ORD1461,2024-10-17,West,Sports,Coffee Maker,Eva,16,385.9,6174.4,1648.98
+ORD1462,2024-08-20,West,Food & Beverage,Coffee Maker,Bob,7,594.39,4160.73,422.15
+ORD1463,2024-06-20,East,Sports,Tennis Racket,Alice,13,275.38,3579.94,279.16
+ORD1464,2024-04-20,North,Electronics,Basketball,Bob,10,627.91,6279.1,737.4
+ORD1465,2024-05-09,East,Electronics,Blender,Helen,7,415.32,2907.24,186.85
+ORD1466,2024-02-20,East,Food & Beverage,Basketball,Eva,14,556.53,7791.42,1424.21
+ORD1467,2024-01-17,East,Electronics,Jacket,Frank,5,441.77,2208.85,627.65
+ORD1468,2024-02-12,North,Clothing,T-Shirt,Charlie,3,301.52,904.56,54.13
+ORD1469,2024-07-19,North,Furniture,Headphones,Helen,11,948.97,10438.67,840.6
+ORD1470,2024-05-13,North,Furniture,Chair,Frank,11,765.97,8425.67,1373.8
+ORD1471,2024-04-01,West,Clothing,Basketball,Helen,18,148.71,2676.78,758.78
+ORD1472,2024-01-30,West,Food & Beverage,Jacket,Helen,15,869.78,13046.7,1683.53
+ORD1473,2024-05-23,West,Food & Beverage,Laptop,Bob,12,492.56,5910.72,1045.07
+ORD1474,2024-06-25,South,Food & Beverage,Tennis Racket,Eva,9,895.61,8060.49,486.8
+ORD1475,2024-07-03,East,Electronics,Desk,Alice,10,801.86,8018.6,698.31
+ORD1476,2024-04-24,West,Furniture,Tennis Racket,Alice,12,430.96,5171.52,1534.17
+ORD1477,2024-08-16,East,Clothing,T-Shirt,Eva,17,32.24,548.08,159.64
+ORD1478,2024-08-29,South,Furniture,Laptop,Bob,6,275.99,1655.94,84.84
+ORD1479,2024-11-29,West,Food & Beverage,Laptop,Grace,7,546.22,3823.54,1101.0
+ORD1480,2024-03-16,West,Clothing,Headphones,Alice,14,637.14,8919.96,1871.23
+ORD1481,2024-08-10,North,Furniture,Basketball,Grace,13,265.31,3449.03,920.82
+ORD1482,2024-07-14,North,Food & Beverage,Coffee Maker,Grace,8,147.96,1183.68,193.75
+ORD1483,2024-11-13,South,Clothing,Chair,Eva,10,836.58,8365.8,1496.63
+ORD1484,2024-07-16,South,Food & Beverage,Tennis Racket,David,9,984.56,8861.04,1525.97
+ORD1485,2024-07-13,South,Electronics,T-Shirt,David,18,530.43,9547.74,2069.15
+ORD1486,2024-01-13,East,Sports,Laptop,David,2,179.96,359.92,30.56
+ORD1487,2024-01-04,West,Food & Beverage,Tennis Racket,Alice,5,279.58,1397.9,80.37
+ORD1488,2024-10-16,South,Food & Beverage,Chair,Bob,5,28.21,141.05,17.91
+ORD1489,2024-12-29,East,Electronics,Blender,Frank,6,915.16,5490.96,1241.89
+ORD1490,2024-06-06,North,Furniture,Jacket,David,19,126.57,2404.83,241.6
+ORD1491,2024-12-11,North,Sports,T-Shirt,Bob,8,580.75,4646.0,1014.49
+ORD1492,2024-12-03,West,Clothing,Blender,Alice,16,281.31,4500.96,1316.43
+ORD1493,2024-08-31,North,Furniture,Jacket,Grace,13,558.64,7262.32,533.6
+ORD1494,2024-12-15,East,Food & Beverage,Headphones,Frank,1,654.91,654.91,142.87
+ORD1495,2024-12-16,West,Electronics,Laptop,Grace,17,831.44,14134.48,2274.77
+ORD1496,2024-02-20,East,Electronics,Chair,Eva,7,214.36,1500.52,400.69
+ORD1497,2024-11-05,West,Food & Beverage,T-Shirt,Bob,13,20.89,271.57,25.61
+ORD1498,2024-10-30,South,Electronics,Laptop,Bob,4,145.52,582.08,129.89
+ORD1499,2024-04-14,South,Sports,Coffee Maker,Charlie,4,901.02,3604.08,935.36
